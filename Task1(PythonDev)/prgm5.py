@@ -1,4 +1,4 @@
-# 5. Given a nber ‘n’ find the first n perfect numbers
+# 5. Given a number ‘n’ find the first n perfect numbers
 
 n=int(input("How many perfect Number you want: "))
 a=[4]
